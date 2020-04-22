@@ -1,2 +1,5 @@
 # Hello-World
-My first repository
+
+Hi there.
+
+I find programming fascinating and I am learning c# as my first language.
